@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">TestApp</string>
+    <string name="delete">Удалить</string>
+    <string name="title_name">Название</string>
+    <string name="title_hint">Введите название</string>
+    <string name="description_name">Описание</string>
+    <string name="description_hint">Введите опинсание</string>
+</resources>
