@@ -11,13 +11,13 @@ pluginManagement {
         gradlePluginPortal()
     }
 }
+
 dependencyResolutionManagement {
-    repositoriesMode.set(RepositoriesMode.FAIL_ON_PROJECT_REPOS)
     repositories {
         google()
         mavenCentral()
     }
 }
 
-rootProject.name = "TestApp"
-include(":app")
+rootProject.name = "ToDoApp"
+include(":backend", ":android:app")
